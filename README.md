@@ -20,6 +20,9 @@
 
 > 神戸三ノ宮駅から徒歩5分。「エンジニアが集まるバー」 Hack.BAR in hanaです。 フロント・サーバ・インフラ各業種のエンジニアが集っていろんな会話が繰り広げられます。また、パソコンを開いてお酒と共に書くコードはいかがでしょうか？？
 
+## 🚪 Opening Hours
+- Fri - Sat: 18:00 ~ 23:00 (LO:22:30)
+
 At Hack.BAR I care about:
 
 * 🗣 **Communication**: Whether the engineer, the customer and the staff can maintain good relations and enjoyable conversations..
@@ -60,7 +63,7 @@ npm install -g yarn
 
 > Clone the [apps](git@github.com:shouhi/Hack.BAR.github.io.git) repo.
 ```
-git clone git@github.com:shouhi/Hack.BAR.github.io.git
+git clone git@github.com:MAGIE-COMPANY-Inc/Hack.BAR.github.io.git
 ```
 
 ### → STEP #2
@@ -112,10 +115,16 @@ We are open to all kinds of contributions. If you want to:
 * 📖 Improve documentation
 * 👨‍💻 Contribute to the code
 
+#### If your code is merged , We will give you a drink coupon.
+
 ## 🎩 Core Team
 
-Meet the core team of daily.dev:
-* [@shouhi_ide](https://twitter.com/shouhi_ide)
+Meet the core team of Hack.BAR:
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/shouhi_ide"><img src="https://user-images.githubusercontent.com/63713624/123041698-9f3c9b00-d430-11eb-8faf-e98e27e347db.jpg" width="100px;" alt=""/><br /><sub><b>井手翔陽</b></sub></a><br /><a href="https://github.com/MAGIE-COMPANY-Inc/Hack.BAR.github.io/commits?author=shouhi" title="Documentation">📖</a> <a href="#projectManagement-shouhi" title="Project Management">📆</a>
+    </td>
+</table>
 
 Feel free to reach out to us and say hi 👋.
 
